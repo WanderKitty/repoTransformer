@@ -1,0 +1,19 @@
+{
+    "ignore_dirs": [
+      "node_modules",
+      "*package-lock.json",
+      "*.git*",
+      "venv",
+      "env",
+      "__pycache__"
+    ],
+    "ignore_files": [
+      "*.log",
+      "*.tmp",
+      "*.bak",
+      "*.pyc",
+      ".DS_Store",
+      "Thumbs.db",
+      "desktop.ini"
+    ]
+  }
